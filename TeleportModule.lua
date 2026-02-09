@@ -19,10 +19,12 @@ TeleportModule.Locations = {
     ["Treasure Room"] = Vector3.new(-3601.568359375, -266.57373046875, -1578.998779296875),
     ["Tropical Grove"] = Vector3.new(-2104.467041015625, 6.268016815185547, 3718.2548828125),
     ["Underground Cellar"] = Vector3.new(2162.577392578125, -91.1981430053711, -725.591552734375),
-    ["(New)Pirate Cove"] = Vector3.new(3334.47, 10.2, 3502.92),
-    ["(New)Leviathan Den"] = Vector3.new(3471.41, -287.84, 3468.87),
-    ["(New)Pirate Treasure Room"] = Vector3.new(3337.64, -302.75, 3089.56),
-    ["(New)Crystal Depths"] = Vector3.new(5729.04, -904.82, 15407.97),
+    ["Pirate Cove"] = Vector3.new(3334.47, 10.2, 3502.92),
+    ["Leviathan Den"] = Vector3.new(3471.41, -287.84, 3468.87),
+    ["Pirate Treasure Room"] = Vector3.new(3337.64, -302.75, 3089.56),
+    ["Crystal Depths"] = Vector3.new(5729.04, -904.82, 15407.97),
+    ["(New)Vulcanic Cavern"] = Vector3.new(1118.181762695312500, 85.990936279296875, -10250.158203125000000),
+    ["(New)Lava Basin"] = Vector3.new(871.716613769531250, 96.938903808593750, -10176.625976562500000),
     ["Weather Machine"] = Vector3.new(-1513.9249267578125, 6.499999523162842, 1892.10693359375)
 }
 
